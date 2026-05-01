@@ -6,6 +6,7 @@ const KPI_META = {
 };
 
 const SERIES_COLORS = ["#1f9f7a", "#7b7b76", "#d55b2e", "#b87911", "#3f86d0", "#7a72d1", "#ca537f", "#5d9220"];
+let trendChart = null;
 
 function formatCurrency(value) {
   return new Intl.NumberFormat("en-US", { style: "currency", currency: "USD" }).format(value);
@@ -81,7 +82,7 @@ function renderBestSellers(items) {
     row.innerHTML = `
       <div>${item.item_description || item.item_code}</div>
       <div class="track"><div class="bar" style="width:${widthPct}%; background:${SERIES_COLORS[idx % SERIES_COLORS.length]}"></div></div>
-      <div>${formatNumber(item.units_sold)} units</div>
+      <div class="seller-units">${formatNumber(item.units_sold)} units</div>
     `;
     root.appendChild(row);
   });
@@ -130,40 +131,57 @@ function renderCategory(categories) {
 }
 
 function renderTrend(points) {
-  const svg = document.getElementById("line-chart");
+  const canvas = document.getElementById("line-chart");
+  if (trendChart) {
+    trendChart.destroy();
+    trendChart = null;
+  }
   if (points.length === 0) {
-    svg.innerHTML = "";
     return;
   }
-  const width = 900;
-  const height = 300;
-  const p = { t: 20, r: 20, b: 40, l: 40 };
-  const max = Math.max(...points.map((pt) => pt.units_sold), 1);
-  const min = 0;
-  const xStep = points.length === 1 ? 0 : (width - p.l - p.r) / (points.length - 1);
-
-  const coords = points.map((pt, idx) => {
-    const x = p.l + idx * xStep;
-    const y = p.t + (1 - (pt.units_sold - min) / (max - min || 1)) * (height - p.t - p.b);
-    return { ...pt, x, y };
+  trendChart = new Chart(canvas, {
+    type: "line",
+    data: {
+      labels: points.map((pt) => pt.bucket.slice(11, 16) || pt.bucket),
+      datasets: [
+        {
+          label: "Units sold",
+          data: points.map((pt) => pt.units_sold),
+          borderColor: "#3f86d0",
+          backgroundColor: "#3f86d033",
+          fill: true,
+          pointRadius: 3,
+          tension: 0.35
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false }
+      },
+      scales: {
+        x: {
+          ticks: {
+            autoSkip: true,
+            maxTicksLimit: 12,
+            maxRotation: 0,
+            minRotation: 0
+          },
+          grid: {
+            color: "#e3e3e0"
+          }
+        },
+        y: {
+          beginAtZero: true,
+          grid: {
+            color: "#e3e3e0"
+          }
+        }
+      }
+    }
   });
-
-  const line = coords.map((pt, idx) => `${idx === 0 ? "M" : "L"}${pt.x} ${pt.y}`).join(" ");
-  const area = `${line} L ${coords[coords.length - 1].x} ${height - p.b} L ${coords[0].x} ${height - p.b} Z`;
-  const dots = coords
-    .map((pt) => `<circle cx="${pt.x}" cy="${pt.y}" r="4" fill="#3f86d0"></circle>`)
-    .join("");
-  const labels = coords
-    .map((pt) => `<text x="${pt.x}" y="${height - 12}" text-anchor="middle" font-size="11" fill="#525252">${pt.bucket.slice(11, 16) || pt.bucket}</text>`)
-    .join("");
-
-  svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
-  svg.innerHTML = `
-    <path d="${area}" fill="#3f86d022"></path>
-    <path d="${line}" fill="none" stroke="#3f86d0" stroke-width="3"></path>
-    ${dots}
-    ${labels}
-  `;
 }
 
 function renderRecommendations(panel) {
@@ -186,6 +204,7 @@ function renderRecommendations(panel) {
         <span class="up">+$${est} est.</span>
       </div>
       <div class="rec-note">${item.rationale}</div>
+      ${item.pairingSuggestion ? `<div class="rec-note">Bundle idea: ${item.pairingSuggestion.rationale}</div>` : ""}
     `;
     root.appendChild(node);
   });
@@ -224,6 +243,95 @@ function setPanelStateText(panelStates, data) {
   });
 }
 
+function setImportStatus(message, isError = false) {
+  const node = document.getElementById("import-status");
+  node.textContent = message;
+  node.style.color = isError ? "#8c2f29" : "#404040";
+}
+
+async function uploadTransactionsFile(file) {
+  if (!file) {
+    return;
+  }
+  const text = await file.text();
+  let parsed;
+  try {
+    parsed = JSON.parse(text);
+  } catch (_error) {
+    setImportStatus("Invalid JSON file format.", true);
+    return;
+  }
+
+  const transactions = Array.isArray(parsed) ? parsed : parsed.transactions;
+  if (!Array.isArray(transactions)) {
+    setImportStatus("JSON must be an array of transactions or { transactions: [...] }.", true);
+    return;
+  }
+
+  setImportStatus(`Importing ${transactions.length} transactions from ${file.name}...`);
+  const response = await fetch("/api/import-json", {
+    method: "POST",
+    headers: {
+      "content-type": "application/json"
+    },
+    body: JSON.stringify({
+      sourceFileId: file.name,
+      transactions
+    })
+  });
+
+  const result = await response.json();
+  if (!response.ok) {
+    throw new Error(result.error || "Failed to import JSON");
+  }
+
+  const report = result.report || {};
+  setImportStatus(
+    `Imported ${report.processedCount || 0} rows (${report.duplicateCount || 0} duplicates, ${report.rejectedCount || 0} rejected).`
+  );
+  await loadDashboard();
+}
+
+function setupImportUI() {
+  const pickBtn = document.getElementById("pick-file");
+  const fileInput = document.getElementById("file-input");
+  const dropzone = document.getElementById("dropzone");
+
+  pickBtn.addEventListener("click", () => fileInput.click());
+  fileInput.addEventListener("change", async () => {
+    const file = fileInput.files && fileInput.files[0];
+    try {
+      await uploadTransactionsFile(file);
+    } catch (error) {
+      setImportStatus(`Import failed: ${error.message}`, true);
+    } finally {
+      fileInput.value = "";
+    }
+  });
+
+  ["dragenter", "dragover"].forEach((eventName) => {
+    dropzone.addEventListener(eventName, (event) => {
+      event.preventDefault();
+      dropzone.classList.add("dragover");
+    });
+  });
+  ["dragleave", "drop"].forEach((eventName) => {
+    dropzone.addEventListener(eventName, (event) => {
+      event.preventDefault();
+      dropzone.classList.remove("dragover");
+    });
+  });
+
+  dropzone.addEventListener("drop", async (event) => {
+    const file = event.dataTransfer && event.dataTransfer.files && event.dataTransfer.files[0];
+    try {
+      await uploadTransactionsFile(file);
+    } catch (error) {
+      setImportStatus(`Import failed: ${error.message}`, true);
+    }
+  });
+}
+
 async function loadDashboard() {
   const response = await fetch("/api/dashboard");
   if (!response.ok) {
@@ -250,6 +358,7 @@ async function loadDashboard() {
   setPanelStateText(data.panel_states || {}, data);
 }
 
+setupImportUI();
 loadDashboard().catch((error) => {
   const warningNode = document.getElementById("warning");
   warningNode.hidden = false;

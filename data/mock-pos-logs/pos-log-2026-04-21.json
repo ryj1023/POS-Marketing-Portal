@@ -1,0 +1,6063 @@
+{
+  "sourceFileId": "generated-2026-04-21",
+  "transactions": [
+    {
+      "transactionTime": "2026-04-21T06:02:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T06:17:58.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T06:24:24.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T06:32:40.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T06:39:07.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T06:48:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T06:55:49.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:02:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:10:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:17:41.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:18:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:24:07.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 1,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:31:34.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:32:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:39:50.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:48:06.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:54:43.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:55:32.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T07:56:14.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:03:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:06:56.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:11:39.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:14:12.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:18:05.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:20:49.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 1,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:21:38.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:27:21.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:28:05.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:34:48.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:36:21.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:41:14.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:42:57.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:43:47.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:49:30.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:52:03.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:56:57.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T08:59:29.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:01:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:04:51.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:08:49.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:13:07.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:17:05.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:18:55.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:20:34.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:24:32.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:31:58.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:35:16.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:39:14.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:40:04.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:42:42.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:46:41.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:53:07.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T09:57:25.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:03:40.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:08:17.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:10:06.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:17:33.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:23:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:25:49.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:32:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:33:05.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:39:41.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 1,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:45:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:47:57.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:54:24.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T10:55:13.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:01:10.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 1,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:02:42.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:09:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:15:03.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 1,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:17:24.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:23:19.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:24:51.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:33:07.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:34:56.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:39:01.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:40:33.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:46:27.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:47:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:55:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T11:56:05.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:00:35.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:08:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:08:51.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:15:18.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:15:41.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:21:18.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:22:07.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:22:44.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:29:10.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:30:00.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:30:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:37:26.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:37:50.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:43:26.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:44:16.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:46:42.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:52:19.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:52:32.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:53:09.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T12:59:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 3,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:03:00.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:03:20.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:09:36.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:10:26.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 1,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:10:47.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:18:03.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:18:42.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:25:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:25:29.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:32:55.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:34:24.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:41:51.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:47:27.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:47:38.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:48:17.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:56:33.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T13:56:54.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:03:10.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:03:49.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:10:36.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:18:32.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:18:52.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:25:19.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:25:58.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:33:45.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:34:35.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:40:40.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:41:01.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:48:27.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:55:54.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:56:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T14:56:44.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:07:24.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:14:50.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:15:40.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:20:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:21:17.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:29:33.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:36:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:37:49.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:42:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 1,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:45:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:52:42.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T15:59:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:00:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:06:35.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:08:24.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:13:02.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:15:50.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:21:27.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:22:17.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:28:44.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:30:33.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:37:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:46:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 3,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:50:53.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:53:42.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T16:59:18.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:01:41.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:02:43.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:08:07.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:09:09.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 3,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:16:23.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:17:25.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:18:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:23:50.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:24:51.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 1,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:30:16.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:33:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:38:32.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:40:34.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:41:24.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:45:58.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:47:00.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:54:14.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T17:55:16.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:06:28.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 1,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:07:17.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:08:03.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:13:54.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        },
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:15:30.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:21:10.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:22:56.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:28:37.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 3,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:29:26.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:30:12.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:36:49.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:37:39.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:37:53.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:44:05.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:44:19.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:51:45.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 1,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:52:21.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "LIGHTER",
+          "category": "Other",
+          "itemDescription": "Pocket Lighter",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:57:31.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:58:58.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:59:01.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T18:59:47.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 2,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:01:05.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 1,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:02:57.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:08:32.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:10:13.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:16:48.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:17:39.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:25:06.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 2,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:26:55.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:30:40.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:33:22.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 2,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:38:56.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:40:48.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 2,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 2,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:47:14.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:48:04.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:54:39.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 2,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T19:55:30.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:00:16.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 1,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:01:06.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "MILK-1G",
+          "category": "Dairy",
+          "itemDescription": "Whole Milk 1 Gallon",
+          "quantity": 1,
+          "itemCost": 2.45,
+          "itemPrice": 4.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:07:43.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:15:59.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:22:25.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:23:15.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 2,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:31:41.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "CHIPS-CL",
+          "category": "Snacks",
+          "itemDescription": "Lay's Classic 2.75oz",
+          "quantity": 1,
+          "itemCost": 0.58,
+          "itemPrice": 2.19
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 1,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:38:08.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "ENERGY-16",
+          "category": "Beverages",
+          "itemDescription": "Monster Energy 16oz",
+          "quantity": 3,
+          "itemCost": 1.35,
+          "itemPrice": 3.69
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 2,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "PIZZA-SL",
+          "category": "Frozen",
+          "itemDescription": "Pizza Slice",
+          "quantity": 2,
+          "itemCost": 1.2,
+          "itemPrice": 3.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:45:34.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 2,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:48:33.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 102,
+        "name": "Jordan"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 2,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "SODA-20",
+          "category": "Beverages",
+          "itemDescription": "Coca-Cola 20oz",
+          "quantity": 3,
+          "itemCost": 0.72,
+          "itemPrice": 2.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T20:53:50.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 3,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 2,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:04:44.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        },
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 1,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:11:10.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 107,
+        "name": "Parker"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "SAND-HAM",
+          "category": "Other",
+          "itemDescription": "Ham Sandwich",
+          "quantity": 2,
+          "itemCost": 2.2,
+          "itemPrice": 5.99
+        },
+        {
+          "itemCode": "COOKIE-CH",
+          "category": "Snacks",
+          "itemDescription": "Chocolate Cookie",
+          "quantity": 2,
+          "itemCost": 0.36,
+          "itemPrice": 1.49
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:18:36.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 103,
+        "name": "Morgan"
+      },
+      "items": [
+        {
+          "itemCode": "HOTDOG-RG",
+          "category": "Other",
+          "itemDescription": "Roller Grill Hot Dog",
+          "quantity": 1,
+          "itemCost": 0.88,
+          "itemPrice": 2.79
+        },
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        },
+        {
+          "itemCode": "CANDY-MX",
+          "category": "Snacks",
+          "itemDescription": "Mixed Candy",
+          "quantity": 1,
+          "itemCost": 0.42,
+          "itemPrice": 1.79
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:26:52.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 105,
+        "name": "Riley"
+      },
+      "items": [
+        {
+          "itemCode": "WATER-1L",
+          "category": "Beverages",
+          "itemDescription": "Dasani Water 1L",
+          "quantity": 1,
+          "itemCost": 0.48,
+          "itemPrice": 1.99
+        },
+        {
+          "itemCode": "YOG-PAR",
+          "category": "Dairy",
+          "itemDescription": "Greek Yogurt Parfait",
+          "quantity": 1,
+          "itemCost": 1.15,
+          "itemPrice": 2.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:33:19.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 100,
+        "name": "Alex"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 3,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        },
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 1,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:40:45.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 104,
+        "name": "Taylor"
+      },
+      "items": [
+        {
+          "itemCode": "MARL-RED",
+          "category": "Tobacco",
+          "itemDescription": "Marlboro Red Pack",
+          "quantity": 1,
+          "itemCost": 7.1,
+          "itemPrice": 10.49
+        },
+        {
+          "itemCode": "VAPE-MNT",
+          "category": "Tobacco",
+          "itemDescription": "Mint Vape Pod",
+          "quantity": 1,
+          "itemCost": 4.8,
+          "itemPrice": 8.99
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:48:01.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 106,
+        "name": "Avery"
+      },
+      "items": [
+        {
+          "itemCode": "COFFEE-M",
+          "category": "Beverages",
+          "itemDescription": "Hot Coffee (Any)",
+          "quantity": 2,
+          "itemCost": 0.65,
+          "itemPrice": 2.29
+        }
+      ]
+    },
+    {
+      "transactionTime": "2026-04-21T21:55:28.000Z",
+      "sourceFileId": "mock-2026-04-21",
+      "cashier": {
+        "id": 101,
+        "name": "Casey"
+      },
+      "items": [
+        {
+          "itemCode": "ICE-CRM",
+          "category": "Frozen",
+          "itemDescription": "Ice Cream Bar",
+          "quantity": 1,
+          "itemCost": 0.95,
+          "itemPrice": 2.49
+        }
+      ]
+    }
+  ]
+}
